@@ -1,0 +1,480 @@
+*************************************************************
+FileName = ESC ITERATION 2.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : ESC ITERATION 2_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Layer 1
+      File : ESC ITERATION 2_Copper_Signal_1.gbr
+
+    Adding Layer      : Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D33
+    D34
+    D36
+    D40
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : ESC ITERATION 2_Copper_Signal_2.gbr
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D33
+    D35
+    D37
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : ESC ITERATION 2_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D24
+    D25
+    D26
+    D27
+    D28
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D39
+    D40
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : ESC ITERATION 2_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D24
+    D25
+    D26
+    D27
+    D28
+    D30
+    D31
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : ESC ITERATION 2_Pads_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : ESC ITERATION 2_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D54
+    D55
+    D56
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : ESC ITERATION 2_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : ESC ITERATION 2_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D15
+    D16
+    D18
+    D19
+    D20
+    D24
+    D25
+    D26
+    D27
+    D28
+    D30
+    D31
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : ESC ITERATION 2_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D54
+    D55
+    D56
+    D57
+    D58
+    D80
+    D81
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : ESC ITERATION 2_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : ESC ITERATION 2_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D59
+    D60
+    D61
+    D62
+    D64
+    D66
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D78
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : ESC ITERATION 2_Mechanical_13.gbr
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D55
+    D57
+    D88
+    D89
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 5
+      File : ESC ITERATION 2_Mechanical_5.gbr
+
+    Adding Layer      : Mechanical 5
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : ESC ITERATION 2_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D90
+    D91
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : ESC ITERATION 2_Mechanical_15.gbr
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D58
+    D92
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : ESC ITERATION 2_Profile.gbr
+
+
+Used DCodes :
+    D93
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : ESC ITERATION 2_NPTH_Drill.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : ESC ITERATION 2_PTH_Drill.gbr
+
+
+Used DCodes :
+    D94
+    D95
+    D96
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : ESC ITERATION 2_Drawing_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D57
+    D98
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : ESC ITERATION 2_Drillmap_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D57
+*************************************************************
+
